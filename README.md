@@ -27,3 +27,7 @@
 
 #### React Component composition
 ![Screenshot 2024-01-09 at 11 57 11 PM](https://github.com/therishabh/namaste-react/assets/7955435/e9f57921-face-4230-ab2b-30fdd89f7d5d)
+
+#### Use React element inside React functional component
+![Screenshot 2024-01-10 at 12 05 38 AM](https://github.com/therishabh/namaste-react/assets/7955435/a23cefab-c3a6-423b-8b26-b39dc2e011f3)
+
