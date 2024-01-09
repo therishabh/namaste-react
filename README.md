@@ -24,3 +24,6 @@
 
 #### React Element and React Component
 ![Screenshot 2024-01-09 at 7 28 43 PM](https://github.com/therishabh/namaste-react/assets/7955435/5e885ef3-f418-44fc-8432-c6d95e1661ec)
+
+#### React Component composition
+![Screenshot 2024-01-09 at 11 57 11 PM](https://github.com/therishabh/namaste-react/assets/7955435/e9f57921-face-4230-ab2b-30fdd89f7d5d)
